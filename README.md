@@ -1,6 +1,10 @@
 # receipt_scanner
 A repo for my combined project ideas from the Deep Learning and Learning from Images courses to reduce the stress of clearing the housing fund receipts.
 
+<p align="center">
+<img src="https://github.com/Lucky-0ne/receipt_scanner/blob/main/doc_imgs/detection_green.PNG" width="400" height="auto">
+</p>
+
 ## Main Files
 
 ### [IP_stream.py](https://github.com/Lucky-0ne/receipt_scanner/blob/main/main/scripts/IP_stream.py)
